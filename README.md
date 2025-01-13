@@ -1,2 +1,2 @@
 # git-to-log
-gitLog日志输出，一键填写工作日志
+gitLog日志输出，一键输出工作日志
